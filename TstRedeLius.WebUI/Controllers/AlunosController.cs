@@ -64,7 +64,6 @@ public class AlunosController : Controller
         return View(alunoDto);
     }
 
-    [Authorize(Roles = "Admin")]
     [HttpGet]
     public async Task<IActionResult> Delete(int? id)
     {
