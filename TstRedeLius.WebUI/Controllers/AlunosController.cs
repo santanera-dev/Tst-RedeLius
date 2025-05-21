@@ -35,7 +35,14 @@ public class AlunosController : Controller
         return View(alunoDto);
     }
 
-    [HttpGet]
+    [HttpGet()]
+    public IActionResult Create()
+    {
+      return View();
+    }
+
+
+  [HttpGet]
     public async Task<IActionResult> Edit(int? id)
     {
         if (id == null) return NotFound();

@@ -15,3 +15,4 @@ C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\refint\TstR
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeLius.Infra.Data.pdb
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeLius.Infra.Data.genruntimeconfig.cache
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\ref\TstRedeLius.Infra.Data.dll
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeLius.Infra.Data.sourcelink.json

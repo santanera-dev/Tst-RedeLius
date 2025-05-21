@@ -157,3 +157,4 @@ C:\CursosDesenv\Tst-RedeLius\TstRedeLius.WebUI\obj\Debug\net8.0\refint\TstRedeLi
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.WebUI\obj\Debug\net8.0\TstRedeLius.WebUI.pdb
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.WebUI\obj\Debug\net8.0\TstRedeLius.WebUI.genruntimeconfig.cache
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.WebUI\obj\Debug\net8.0\ref\TstRedeLius.WebUI.dll
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.WebUI\obj\Debug\net8.0\TstRedeLius.WebUI.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TstRedeLius.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e2bfd4c49e91a94918900117b8955ff725d35f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a19dd4215b018e77616c5811e2d5a6418854ff5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TstRedeLius.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TstRedeLius.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

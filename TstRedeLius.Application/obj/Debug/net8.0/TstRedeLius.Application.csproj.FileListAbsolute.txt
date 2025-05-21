@@ -13,3 +13,4 @@ C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Application\obj\Debug\net8.0\TstRedeLiu
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Application\obj\Debug\net8.0\refint\TstRedeLius.Application.dll
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Application\obj\Debug\net8.0\TstRedeLius.Application.pdb
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Application\obj\Debug\net8.0\ref\TstRedeLius.Application.dll
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Application\obj\Debug\net8.0\TstRedeLius.Application.sourcelink.json

@@ -154,3 +154,4 @@ C:\CursosDesenv\Tst-RedeLius\TstRedeLius.API\obj\Debug\net8.0\TstRedeLius.API.xm
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.API\obj\Debug\net8.0\TstRedeLius.API.pdb
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.API\obj\Debug\net8.0\TstRedeLius.API.genruntimeconfig.cache
 C:\CursosDesenv\Tst-RedeLius\TstRedeLius.API\obj\Debug\net8.0\ref\TstRedeLius.API.dll
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.API\obj\Debug\net8.0\TstRedeLius.API.sourcelink.json
