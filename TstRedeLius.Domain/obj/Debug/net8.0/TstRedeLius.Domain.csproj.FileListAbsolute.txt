@@ -1,0 +1,11 @@
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Domain\bin\Debug\net8.0\TstRedeLius.Domain.deps.json
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Domain\bin\Debug\net8.0\TstRedeLius.Domain.dll
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Domain\bin\Debug\net8.0\TstRedeLius.Domain.pdb
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Domain\obj\Debug\net8.0\TstRedeLius.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Domain\obj\Debug\net8.0\TstRedeLius.Domain.AssemblyInfoInputs.cache
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Domain\obj\Debug\net8.0\TstRedeLius.Domain.AssemblyInfo.cs
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Domain\obj\Debug\net8.0\TstRedeLius.Domain.csproj.CoreCompileInputs.cache
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Domain\obj\Debug\net8.0\TstRedeLius.Domain.dll
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Domain\obj\Debug\net8.0\refint\TstRedeLius.Domain.dll
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Domain\obj\Debug\net8.0\TstRedeLius.Domain.pdb
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Domain\obj\Debug\net8.0\ref\TstRedeLius.Domain.dll

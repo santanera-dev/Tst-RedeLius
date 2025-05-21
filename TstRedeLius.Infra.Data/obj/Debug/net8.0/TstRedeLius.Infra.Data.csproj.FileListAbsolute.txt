@@ -1,0 +1,17 @@
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\bin\Debug\net8.0\TstRedeLius.Infra.Data.deps.json
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\bin\Debug\net8.0\TstRedeLius.Infra.Data.runtimeconfig.json
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\bin\Debug\net8.0\TstRedeLius.Infra.Data.dll
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\bin\Debug\net8.0\TstRedeLius.Infra.Data.pdb
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\bin\Debug\net8.0\TstRedeLius.Domain.dll
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\bin\Debug\net8.0\TstRedeLius.Domain.pdb
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeLius.Infra.Data.csproj.AssemblyReference.cache
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeLius.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeLius.Infra.Data.AssemblyInfoInputs.cache
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeLius.Infra.Data.AssemblyInfo.cs
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeLius.Infra.Data.csproj.CoreCompileInputs.cache
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeL.A5A78E0A.Up2Date
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeLius.Infra.Data.dll
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\refint\TstRedeLius.Infra.Data.dll
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeLius.Infra.Data.pdb
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\TstRedeLius.Infra.Data.genruntimeconfig.cache
+C:\CursosDesenv\Tst-RedeLius\TstRedeLius.Infra.Data\obj\Debug\net8.0\ref\TstRedeLius.Infra.Data.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eXXDcweR3GXjmKwcqZXJ54kA05TDjM6kDLcnHBcePfc=",
+  "Source": "TstRedeLius.API",
+  "BasePath": "_content/TstRedeLius.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
